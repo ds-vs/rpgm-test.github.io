@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":357,"indent":0,"parameters":["Community_Lighting_MZ","flashlight","Player Flashlight",{"enabled":"false","beamLength":"8","beamWdth":"12","color":"#FF8C00","density":"3"}]},{"code":657,"indent":0,"parameters":["On/Off = false"]},{"code":657,"indent":0,"parameters":["Beam Length = 8"]},{"code":657,"indent":0,"parameters":["Beam Width = 12"]},{"code":657,"indent":0,"parameters":["Beam Color = #FF8C00"]},{"code":657,"indent":0,"parameters":["Beam Density = 3"]},{"code":357,"indent":0,"parameters":["Community_Lighting_MZ","playerLightRadius","Player Light Radius",{"radius":"120","color":"#FF8C00","brightness":"0","fadeSpeed":"0"}]},{"code":657,"indent":0,"parameters":["Radius = 120"]},{"code":657,"indent":0,"parameters":["Color = #FF8C00"]},{"code":657,"indent":0,"parameters":["Brightness = 0"]},{"code":657,"indent":0,"parameters":["fadeSpeed = 0"]},{"code":124,"indent":0,"parameters":[0,180]},{"code":0,"indent":0,"parameters":[]}],"name":"Факел","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"Тетрадь смерти","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

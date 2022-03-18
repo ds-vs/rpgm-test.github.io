@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Zen","characterIndex":0,"characterName":"Zen","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Zen","traits":[],"initialLevel":1,"maxLevel":99,"name":"Зен","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[2,27,0,4,80],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Азий","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Xen","characterIndex":0,"characterName":"Xen","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Xen","traits":[],"initialLevel":1,"maxLevel":99,"name":"Крапивка","nickname":"","note":"","profile":""}
+]
